@@ -1,0 +1,6 @@
+2주차 수업내용
+- 기초 리눅스 명령어
+ls 폴더 나열해서 보기, cat 텍스트 파일 내용보기, touch 새로운 파일 생성
+- 기초 깃 명령어
+status현재 git 폴더 상태 보기, init 현재 폴더 git으로 초기화, add commit하기 위한 준비, commit, config, log, push
+- 주차별 수업 계획
