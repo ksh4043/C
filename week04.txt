@@ -1,2 +1,5 @@
 4주차 수업 내용
--git 기초 명령어
+-기초 linux 명령어
+touch
+-기초 깃 명령어
+fetch, pull
