@@ -3,3 +3,11 @@
 touch
 -기초 깃 명령어
 fetch, pull
+-Go 환경 셋업
+Go.dev -> 컴파일러 설치
+VSC 환경 셋업 -> Go 플러그인 설치, 
+Go 업데이트(ctrl + shift + p -> Go: install/update tools),
+go mod init "폴더"
+cd sample
+go run main.go
+
