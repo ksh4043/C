@@ -10,4 +10,5 @@ Go 업데이트(ctrl + shift + p -> Go: install/update tools),
 go mod init "폴더"
 cd sample
 go run main.go
+. Conflict 트러블 슈팅
 
